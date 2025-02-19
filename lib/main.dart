@@ -44,6 +44,10 @@ class _HomePageState extends State<HomePage> {
   double labMapX = 0;
   double labMapY = 0;
 
+// Battleground
+  double battlemapx = 0.1;
+  double battlemapy = 0.32;
+
 //MyHouse
   double houseMapX = 0;
   double houseMapY = 0;
